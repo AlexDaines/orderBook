@@ -1,0 +1,15 @@
+/mnt/c/Users/Alex/OneDrive - Umich/orderBook/VisualStudioo/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.exe
+/mnt/c/Users/Alex/OneDrive - Umich/orderBook/VisualStudioo/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.pdb
+C:\Users\Alex\OneDrive - Umich\orderBook\VisualStudioo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alex\OneDrive - Umich\orderBook\VisualStudioo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alex\OneDrive - Umich\orderBook\VisualStudioo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alex\OneDrive - Umich\orderBook\VisualStudioo\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\OneDrive - Umich\orderBook\VisualStudioo\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\OneDrive - Umich\orderBook\VisualStudioo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Alex\OneDrive - Umich\orderBook\VisualStudioo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alex\OneDrive - Umich\orderBook\VisualStudioo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alex\OneDrive - Umich\orderBook\VisualStudioo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive - Umich\orderBook\VisualStudioo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Alex\OneDrive - Umich\orderBook\VisualStudioo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alex\OneDrive - Umich\orderBook\VisualStudioo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Alex\OneDrive - Umich\orderBook\VisualStudioo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
